@@ -1,0 +1,13 @@
+.footer__social-links {
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 400;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.footer__social-links:hover {
+  opacity: .5;
+}

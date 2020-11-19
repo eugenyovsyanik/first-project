@@ -1,0 +1,10 @@
+@import url('./_content/footer__column_content_copyright.css');
+
+.footer__columns {
+  width: 90%;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #fff;
+}
